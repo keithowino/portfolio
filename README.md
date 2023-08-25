@@ -8,9 +8,9 @@
 
 ---
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freestyletear" alt="Image showcasing the site author's github profile trophy's" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keithowino" alt="Image showcasing the site author's github profile trophy's" /></a> </p>
 
-[![GitHub Issues](https://img.shields.io/github/issues/freestyletear/Personal_Portfolio)](https://freestyletear.github.io/Personal_Portfolio/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/keithowino/Personal_Portfolio)](https://keithowino.github.io/Personal_Portfolio/issues)
 
 ---
 
