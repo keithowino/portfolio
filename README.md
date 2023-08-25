@@ -27,7 +27,7 @@ I did, i am and will continue to build this 'website' for it will and is contain
 <h2 align=left>Languages and Tools</h2><br>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=freestyletear&show_icons=true&locale=en&layout=compact" alt="Image showcasing the site author's github status on top languages used" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keithowino&show_icons=true&locale=en&layout=compact" alt="Image showcasing the site author's github status on top languages used" /></p>
 
 ---
 <h2 align=left>Support and contact details</h2><br>
