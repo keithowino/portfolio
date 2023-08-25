@@ -8,9 +8,12 @@
 
 ---
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keithowino" alt="Image showcasing the site author's github profile trophy's" /></a> </p>
 
-[![GitHub Issues](https://img.shields.io/github/issues/keithowino/Personal_Portfolio)](https://keithowino.github.io/Personal_Portfolio/issues)
+[![trophy](https://github-profile-trophy.vercel.app/?username=keithowino&row=2&column=3)](https://github.com/keithowino/github-profile-trophy)
+
+[![GitHub issues](https://img.shields.io/github/issues/keithowino/portfolio)
+](https://github.com/keithowino/portfolio/issues)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/keithowino/portfolio)
 
 ---
 
@@ -34,5 +37,4 @@ I did, i am and will continue to build this 'website' for it will and is contain
 <ul>
     <li>designsolutions1629@gmail.com</li>
     <li>keith.james@student.moringaschool.com</li>
-    <li>freestyletear@gmail.com</li>
 </ul>
