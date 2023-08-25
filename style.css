@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt&family=Black+Ops+One&display=swap');
+
+body {
+    --main-text-style: 'Rokkitt', serif;
+    --Hero-text-style: 'Black Ops One', serif;
+
+    --text-color-one: rgb(107, 7, 221);
+    --text-color-two: #000;
+    --text-color-three: #fdfdfd;
+
+    box-sizing: border-box;
+}
+html {
+    background-color: #fdfdfd;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*==================================================================================*/
+/*HEADER STYLING*/
+/*==================================================================================*/
+
+.hero-text {
+    text-transform: uppercase;
+    font-family: var(--Hero-text-style);
+    /* font-size: 8.75em; */
+    text-align: center;
+    margin: .25em 0 0 0;
+    color: var(--text-color-two);
+}
+.display {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
+.language_id {
+    font-weight: bold;
+    color: var(--text-color-two);
+}
+.hero-text-two {
+    font-family: var(--Hero-text-style);
+    font-size: 3.75em;
+    text-align: center;
+    color: var(--text-color-one);
+}
+.hero-text-three {
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bold;
+    font-family: serif;
+    font-size: 2em;
+    color: var(--text-color-two);
+}
+header {
+    margin-bottom: 2.5%;
+}
+
+/*==================================================================================*/
+/*MAIN STYLING*/
+/*==================================================================================*/
+
+main {
+    margin: 2.5% 10%;
+}
+h2 {
+    font-family: serif;
+}
+p {
+    font-family: var(--main-text-style);
+    font-size: 1.25em;
+    color: var(--text-color-two);
+}
+
+/*==================================================================================*/
+/*FOOTER STYLING*/
+/*==================================================================================*/
+
+.copyright {
+    background-color: var(--text-color-one);
+}
+.copyright_initials {
+    text-align: center;
+    padding: 1em 0;
+    font-weight: bold;
+    color: var(--text-color-three);
+    letter-spacing: .12em;
+}
+.footer_parent_site_title_a {
+    text-decoration: none;
+    color: var(--text-color-three);
+}
+
+/* ==== MEDIA QUERIES ==== */
+
+@media screen and (orientation: portrait) {
+    .hero-text {
+        font-size: 3.28125em;
+        margin: .25em 0 0 0;
+    }
+    .hero-text-two {
+        font-size: 1.40625em;
+    }
+    .hero-text-three {
+        font-weight: 500;
+        font-size: 1.5em;
+    }
+    p {
+        font-size: 1em;
+    }
+}
