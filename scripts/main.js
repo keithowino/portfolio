@@ -17,8 +17,6 @@ function documentTitleStatus(argument1, argument2, argument3){
 };
 documentTitleStatus(appNameCapitalizeAll, 0, remarkOptionsLastElement);
 
-const titleElement = document.querySelector("#js-s-t-s");
 const siteTileRefElement = document.querySelector(".js-site-title-ref");
 
-titleElement.innerHTML = appName;
 siteTileRefElement.innerHTML = appName;
