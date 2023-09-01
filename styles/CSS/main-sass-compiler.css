@@ -18,6 +18,10 @@ p {
   font-family: "Rokkitt", serif;
   margin: 0; }
 
+@media screen and (orientation: portrait) {
+  p {
+    font-size: 1em;
+    padding: 0 0.3125em; } }
 footer {
   position: fixed;
   left: 0;
@@ -46,6 +50,13 @@ footer {
   font-family: serif;
   font-size: 2em; }
 
+@media screen and (orientation: portrait) {
+  #lBannerTextOne {
+    font-size: 1.40625em; }
+
+  #lBannerTextTwo {
+    font-weight: 500;
+    font-size: 1.5em; } }
 .m-footnote-site-title-ref, .m-parent-site-ref {
   text-decoration: none;
   text-transform: capitalize; }
