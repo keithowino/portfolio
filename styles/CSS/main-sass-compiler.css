@@ -6,10 +6,20 @@
 
 body {
   background-color: #fdfdfd;
-  color: #000; }
+  color: #000;
+  font-family: "Rokkitt", serif;
+  font-size: 1em; }
+
+header, main {
+  margin: 2.5% auto; }
+
+p {
+  font-size: 1.25em;
+  font-family: "Rokkitt", serif;
+  margin: 0; }
 
 footer {
-  position: absolute;
+  position: fixed;
   left: 0;
   right: 0;
   bottom: 0;
