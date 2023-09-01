@@ -4,7 +4,7 @@
   box-sizing: border-box; }
 
 body {
-  background-color: #eee; }
+  background-color: #fdfdfd; }
 
 footer {
   position: absolute;
@@ -12,7 +12,7 @@ footer {
   right: 0;
   bottom: 0;
   height: 3em;
-  background-color: #222; }
+  background-color: #6b07dd; }
 
 #footnote-wrapper {
   display: flex; }
@@ -31,5 +31,9 @@ footer {
   text-transform: capitalize; }
   .m-footnote-site-title-ref:hover, .m-parent-site-ref:hover {
     color: white; }
+
+.m-event {
+  color: #000;
+  font-weight: 700; }
 
 /*# sourceMappingURL=main-sass-compiler.css.map */
