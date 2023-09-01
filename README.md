@@ -36,5 +36,4 @@ I did, i am and will continue to build this 'website' for it will and is contain
 <h2 align=left>Support and contact details</h2><br>
 <ul>
     <li>designsolutions1629@gmail.com</li>
-    <li>keith.james@student.moringaschool.com</li>
 </ul>
