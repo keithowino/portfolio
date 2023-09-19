@@ -4,10 +4,9 @@
 <h2 align=center>Keith Owino</h2>
 <p align="center"> <img width="300" height="300" src="https://avatars.githubusercontent.com/u/85235878?v=4" alt="Image showcasing the author of this portfolio." /> </p>
 <p align=center>20th June 2018</p>
-<p align="center"> This document was created with Javascript </p>
+<p align="center"> This document was created with Javascript </p> 
 
----
-<br>
+## Github Status
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=keithowino&row=2&column=3)](https://github.com/keithowino/github-profile-trophy)
 
@@ -23,6 +22,8 @@ It’s hard to believe… that we have come this far, what started out as nothin
 <br>
 
 I did, i am and will continue to update this 'website' for it will, it is containing fractions of parts of my life, by this i mean i seek to share the root of my development so as to coordinate with the rest of the world. With this as i call it My Portfolio i will be using this website to showcase my development as a software developer and more from time to time.
+
+[Live link](https://keithowino.github.io/portfolio/)
 
 ## Languages and Tools
 
